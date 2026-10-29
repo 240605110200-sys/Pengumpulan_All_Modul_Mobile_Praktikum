@@ -23,6 +23,3 @@
 | 10 | 06 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://drive.google.com/file/d/1MibDGr-FH8HPhenfOV-6OJTsBYUTiiVM/view?usp=sharing) | [Program](https://github.com/dwiandina08-oss/tasbih_getx) |
 | 11 | 07 | Manajemen State dengan GetX | [Modul 11](https://drive.google.com/file/d/15FQ8qeRAEHsCkNk8BiShr7jPGMUuZeJY/view?usp=sharing) | [Program](https://github.com/dwiandina08-oss/tasbih_getx) |
 | 12 | 08 | Ujian Tengah Semester | [UTS](https://drive.google.com/file/d/1DKuTYTl1tWgJ89tBIZsqTYRPdFouCeO1/view?usp=sharing) | [UTS](https://github.com/240605110200-sys/pokedex_uts.git) |
-| 13 | 09 | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://drive.google.com/file/d/1yuZZlfHzO7k4Zpr8FfuIQrLT2vfEc3A-/view?usp=drive_link) | [Program](https://github.com/dwiandina08-oss/lokasi_flutter) |
-| 14 | 10 | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul 13](https://drive.google.com/file/d/1Dx264IRgwQPzcBBb2tF33sEKujytMuCy/view?usp=drive_link) | [Program](https://github.com/dwiandina08-oss/flutter_crud_api) |
-| 15 | 11 | Ujian Akhir Semester | [UAS](https://drive.google.com/file/d/1svKbM5HpSksckGown1KL_MsdPSKNVoaZ/view?usp=drive_link) | [Program](https://github.com/dwiandina08-oss/UAS) |
