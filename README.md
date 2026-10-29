@@ -13,8 +13,8 @@
 | :---: | :---: | :--- | :---: | :--- |
 | 1 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan | [-] | [Modul_1](https://github.com/240605110200-sys/Modul-1.git) |
 | 2 | 01 | Widget Row dan Column | [-] | [Modul_2](https://github.com/240605110200-sys/Modul-2.git) |
-| 3 | 02 | Pengaturan Layout Row dan Column di Flutter | [-] | [Program](https://github.com/dwiandina08-oss/modul3) |
-| 4 | 02 | Widget Flexible dan Expanded | [-] | [Program](https://github.com/dwiandina08-oss/modul4) |
+| 3 | 02 | Pengaturan Layout Row dan Column di Flutter | [-] | [Modul_3](https://github.com/240605110200-sys/Modul-3.git) |
+| 4 | 02 | Widget Flexible dan Expanded | [-] | [Modul_4](https://github.com/dwiandina08-oss/modul4) |
 | 5 | 03 | Widget Flexible dan Expanded | [-] | [Program](https://github.com/dwiandina08-oss/modul5) |
 | 6 | 03 | Widget Flexible dan Expanded | [-] | [Program](https://github.com/dwiandina08-oss/modul-6) |
 | 7 | 04 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [-] | [Program](https://github.com/dwiandina08-oss/demo_navigasi_pageroute) |
