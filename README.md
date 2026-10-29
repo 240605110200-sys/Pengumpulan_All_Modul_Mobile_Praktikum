@@ -12,7 +12,7 @@
 | No | Praktikum ke | Topik | Laporan | Repository |
 | :---: | :---: | :--- | :---: | :--- |
 | 1 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan | [-] | [Modul_1](https://github.com/240605110200-sys/Modul-1.git) |
-| 2 | 01 | Widget Row dan Column | [-] | [Program](https://github.com/dwiandina08-oss/colomn_row) |
+| 2 | 01 | Widget Row dan Column | [-] | [Modul_2](https://github.com/240605110200-sys/Modul-2.git) |
 | 3 | 02 | Pengaturan Layout Row dan Column di Flutter | [-] | [Program](https://github.com/dwiandina08-oss/modul3) |
 | 4 | 02 | Widget Flexible dan Expanded | [-] | [Program](https://github.com/dwiandina08-oss/modul4) |
 | 5 | 03 | Widget Flexible dan Expanded | [-] | [Program](https://github.com/dwiandina08-oss/modul5) |
