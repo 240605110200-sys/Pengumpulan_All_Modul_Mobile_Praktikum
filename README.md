@@ -20,6 +20,6 @@
 | 7 | 04 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [-] | [Program](https://github.com/dwiandina08-oss/demo_navigasi_pageroute) |
 | 8 | 04 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [-] | [Program](https://github.com/dwiandina08-oss/demo_navigasi_namedroute) |
 | 9 | 05 | StatefulWidget | [-] | [Program](https://github.com/dwiandina08-oss/game_app) |
-| 10 | 06 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://drive.google.com/file/d/1MibDGr-FH8HPhenfOV-6OJTsBYUTiiVM/view?usp=sharing) | [Modul 10](https://github.com/240605110200-sys/Modul-10.git) |
-| 11 | 07 | Manajemen State dengan GetX | [Modul 11](https://drive.google.com/file/d/15FQ8qeRAEHsCkNk8BiShr7jPGMUuZeJY/view?usp=sharing) | [Program](https://github.com/dwiandina08-oss/tasbih_getx) |
+| 10 | 06 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul_10](https://drive.google.com/file/d/1MibDGr-FH8HPhenfOV-6OJTsBYUTiiVM/view?usp=sharing) | [Modul_10](https://github.com/240605110200-sys/Modul-10.git) |
+| 11 | 07 | Manajemen State dengan GetX | [Modul_11](https://drive.google.com/file/d/15FQ8qeRAEHsCkNk8BiShr7jPGMUuZeJY/view?usp=sharing) | [Modul_11](https://github.com/dwiandina08-oss/tasbih_getx) |
 | 12 | 08 | Ujian Tengah Semester | [UTS](https://drive.google.com/file/d/1DKuTYTl1tWgJ89tBIZsqTYRPdFouCeO1/view?usp=sharing) | [UTS](https://github.com/240605110200-sys/pokedex_uts.git) |
